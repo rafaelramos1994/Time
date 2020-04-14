@@ -1,0 +1,7 @@
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Time\Time\bin\Debug\Time.exe.config
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Time\Time\bin\Debug\Time.exe
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Time\Time\bin\Debug\Time.pdb
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Time\Time\obj\Debug\ProjetoTime.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Time\Time\obj\Debug\ProjetoTime.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Time\Time\obj\Debug\Time.exe
+C:\Users\rafae\Desktop\Nova pasta\Marlon\Time\Time\obj\Debug\Time.pdb
